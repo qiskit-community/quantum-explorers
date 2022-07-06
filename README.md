@@ -1,3 +1,4 @@
+![Image](images/qe_banner.jpg)
 # Quantum Explorers
 Quantum Explorers is a self-paced, gamified quantum computing learning program for high school students and above.<br>
 This is a beginner-level, non-technical friendly program for people interested in quantum computing. <br>
