@@ -5,7 +5,9 @@ Quantum Explorers is a self-paced, gamified quantum computing learning program f
 
 It is beginner-friendly, though it increases in difficulty as achievements are unlocked. The theme of the learning journey is space exploration.
 
-Anyone can join from students to industry professionals to quantum enthusiasts! Participants will gain a general understanding of quantum computing, some of its applications such as quantum machine learning and quantum optimization, and program real quantum computers.
+Anyone can join from students to industry professionals to quantum enthusiasts! The program is comprised of engaging study materials, seminars, gamified achievements to unlock, and career advice.
+
+Participants will gain a general understanding of quantum computing, some of its applications such as quantum machine learning and quantum optimization, and program real quantum computers.
 
 There are six themed achievements to unlock, with corresponding Badges to collect. Each Badge has a learning module, event, or set of tasks associated with it that must be completed in order to unlock its achievement.
 
