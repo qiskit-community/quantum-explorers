@@ -23,7 +23,7 @@ Registration opens for Algo Queen Registrants on July 28, 2022. They will be not
 
 Registration opens to the general public on August 1, 2022 at 6 PM IST | 8: 30 PM EDT. View this time in your own timezone [here](https://dateful.com/convert/indian-standard-time-ist?t=6pm).
 
-Registration form and information can be found on the event website: [qisk.it/quantum-explorers](qisk.it/quantum-explorers).
+Registration form and information can be found on the event website: [qisk.it/quantum-explorers](http://qisk.it/quantum-explorers).
 
 
 
