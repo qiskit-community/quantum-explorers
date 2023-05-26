@@ -24,6 +24,9 @@ Click on the links below for more information about each badge:
 NOTICE: IBM leverages the services of Credly, a 3rd party data processor authorized by IBM and located in the United States, to assist in the administration of the IBM Digital Badge program. In order to issue you an IBM Digital Badge, your personal information (name, email address, and badge earned) will be shared with Credly. You will receive an email notification from Credly with instructions for claiming the badge. Your personal information is used to issue your badge and for program reporting and operational purposes. IBM may share the personal information collected with IBM subsidiaries and third parties globally. It will be handled in a manner consistent with IBM privacy practices. The IBM Privacy Statement can be viewed [here](https://www.ibm.com/us-en/privacy).
 
 
+Contact email address: qiskit.events@us.ibm.com 
+
+
 
 
 
